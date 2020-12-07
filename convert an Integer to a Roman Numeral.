@@ -1,5 +1,5 @@
 class iToR:
-    def _init_(self, n):
+    def __init__(self, n):
         self.num = n
         self.roman = ''
         
